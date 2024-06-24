@@ -1,12 +1,3 @@
-<div align="center">
-
-  <!--stats/언어-->
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinji530&layout=compact&title_color=4E4358)
-
-</div>
-
-
-<br>
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
