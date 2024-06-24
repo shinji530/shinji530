@@ -1,8 +1,7 @@
 <div align="center">
 
   <!--stats/언어-->
-  ![shinji530's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinji530&show_icons=true&ring_color=A833FF&title_color=4E4358&text_color=4E4358&icon_color=D33DFF&count_private=true)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tthisag246&layout=compact&title_color=4E4358)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinji530&layout=compact&title_color=4E4358)
 
 </div>
 
@@ -18,9 +17,9 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />&nbs
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />&nbs
+  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />&nbsp
 </div>
 
 <h3 align="center">🛠 Tools 🛠</h3>
