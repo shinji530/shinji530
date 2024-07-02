@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=A9D0F5&height=200&section=header&text=Jiwon%20Shin&fontSize=50&fontColor=FBFBEF&fontAlignY=40&descAlign=63&animation=fadeIn)
+
+
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
