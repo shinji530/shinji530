@@ -19,6 +19,8 @@
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Java-804000?style=for-the-badge&logo=OpenJDK&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black" /> &nbsp
 </div>
 
 <h3 align="center">🛠 Tools 🛠</h3>
